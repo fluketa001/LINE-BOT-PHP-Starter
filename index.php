@@ -1,3 +1,4 @@
+<?php
 $strAccessToken = "qGZS+Aa+hX1XOGlRGde2xDImRU1A2x7NtY5MFg/n/JnqPYq8g2K29sCZbEQgaI+VLWO7S9c1sIkb62c72RWcZJNeW4vQmJq5imIDZJ3vS6RWMvqs6A+msIFhvOD5Fst55sIFZXHC8c4kvnkkifCO6AdB04t89/1O/w1cDnyilFU=";
  
 $strUrl = "https://api.line.me/v2/bot/message/push";
